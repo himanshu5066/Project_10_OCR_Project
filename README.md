@@ -1,0 +1,2 @@
+# Project_10_OCR_Project
+ocr_preprocessing
